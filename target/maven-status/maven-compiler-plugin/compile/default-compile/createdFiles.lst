@@ -1,0 +1,14 @@
+com/cmani/msscbreweryservice/web/mapper/BeerMapper.class
+com/cmani/msscbreweryservice/web/model/BeerPagedList.class
+com/cmani/msscbreweryservice/web/model/BeerDto.class
+com/cmani/msscbreweryservice/web/controller/MvcExceptionHandler.class
+com/cmani/msscbreweryservice/web/model/BeerDto$BeerDtoBuilder.class
+com/cmani/msscbreweryservice/web/mapper/BeerMapperImpl.class
+com/cmani/msscbreweryservice/web/controller/BeerController.class
+com/cmani/msscbreweryservice/MsscBreweryServiceApplication.class
+com/cmani/msscbreweryservice/bootstrap/BeerLoader.class
+com/cmani/msscbreweryservice/web/model/BeerStyleEnum.class
+com/cmani/msscbreweryservice/domain/Beer.class
+com/cmani/msscbreweryservice/repository/BeerRepository.class
+com/cmani/msscbreweryservice/web/mapper/DateMapper.class
+com/cmani/msscbreweryservice/domain/Beer$BeerBuilder.class
